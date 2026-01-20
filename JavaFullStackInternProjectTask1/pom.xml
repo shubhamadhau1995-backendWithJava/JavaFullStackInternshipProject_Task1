@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.mt</groupId>
-	<artifactId>SpringbootProjectTask1-2</artifactId>
+	<artifactId>JavaFullStackInternProjectTask1</artifactId>
 	<version>1.0</version>
-	<name>SpringbootProjectTask1-2</name>
-	<description> springboot project task1</description>
+	<name>JavaFullStackInternProjectTask1</name>
+	<description> java full stack internship project task1</description>
 	<url/>
 	<licenses>
 		<license/>
