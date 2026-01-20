@@ -1,0 +1,35 @@
+body {
+        font-family: Arial, sans-serif;
+        margin: 0; 
+        background: #f4f4f4; 
+}
+header {
+            background:navy; 
+            color: white; 
+            padding: 40px; 
+            text-align: center; 
+}
+ .contact { 
+             background: white; 
+             padding: 30px; 
+             max-width: 500px; 
+             margin: 40px auto; 
+             border-radius: 8px; 
+} 
+.contact h2 {
+       text-align: center;
+ } input, textarea { 
+          width: 100%; 
+          padding: 10px; 
+         margin: 10px 0; 
+} 
+button { 
+       width: 100%; 
+        padding: 10px; 
+        background:aqua; 
+        color: white;
+        border: none; 
+        cursor: pointer;
+ } button:hover { 
+                   background: #555;
+ } 
